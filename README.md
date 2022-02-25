@@ -1,5 +1,3 @@
-# flambwindsite
+# FlambWind 🐧
 
-## Site de Flambwind
-
-Vous trouverez ici le code de notre si internet.
+![banner.jpg](img/banner.jpg)
