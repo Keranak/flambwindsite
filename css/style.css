@@ -25,6 +25,8 @@ body {
   .topnav {
     overflow: hidden;
     background-color: var(--bleuD);
+    height: 60px;
+    line-height: 30px;
   }
   
   .topnav a {
@@ -83,10 +85,10 @@ body {
   }
   footer{
       background-color: var(--bleuD);
-      height: 100px;
+      height: 70px;
       font-size: 30px;
       text-align: center;
-      line-height: 100px;
+      line-height: 70px;
       position: fixed;
       width: 100%;
       bottom: 0px;
@@ -130,5 +132,5 @@ body {
   }
 
   .container a{
-    color: var(--bleuF);
+    color: white;
   }
