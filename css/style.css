@@ -117,3 +117,18 @@ body {
       background-position: center center;
       background-size: cover;
   }
+
+  /*-------Page contact-------*/
+
+  .container{
+    background-color: rgba(25, 86, 150, .2);
+    width: 300px;
+    border-radius: 20px;
+    text-align: center;
+    justify-content: center;
+    font-size: 2rem;
+  }
+
+  .container a{
+    color: var(--bleuF);
+  }
