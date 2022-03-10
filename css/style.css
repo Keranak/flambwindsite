@@ -1,3 +1,4 @@
+/*Nos couleurs*/
 * {
   --bleu: #317AC1;
   --bleuF: #594e9b;
@@ -10,7 +11,7 @@
   --violet: #bd5e9f;
   --violetF: #BE5EA0;
 }
-
+/*Formatage du DOM*/
 :root {
   font-size: 62.5%;
   background-color: var(--grisclair);
@@ -21,7 +22,7 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
-
+/*Menu de navigation*/
 .topnav {
   overflow: hidden;
   background-color: var(--bleuD);
@@ -81,17 +82,18 @@ body {
     text-align: left;
   }
 }
-
+/*RESTE DU SITE*/
 .titre {
   padding-top: 10px;
   text-align: center;
   font-size: 32px;
+  color: white;
 }
 
 br {
   line-height: 50px;
 }
-
+/*FOOTER*/
 footer {
   background-color: var(--bleuD);
   height: 70px;
@@ -126,7 +128,7 @@ footer ul li {
 footer ul {
   padding-left: 0;
 }
-
+/*BODY*/
 body {
   background-image: url(../img/fondserver.jpg);
   height: 100vh;
