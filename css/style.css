@@ -122,16 +122,20 @@ body {
 
   /*-------Page contact-------*/
 
+  div .conteneur{
+    display: inline-block;
+    justify-content: center;
+  }
   .conteneur{
     background-color: rgba(25, 86, 150, .2);
-    display: flex;
-    width: 300px;
+    width: 400px;
     border-radius: 20px;
-    text-align: center;
     justify-content: center;
     font-size: 2rem;
+    color: white;
   }
 
   .conteneur a{
     color: white;
+    padding-left: 10px;
   }
